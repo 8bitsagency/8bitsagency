@@ -1,4 +1,9 @@
-# 8Bits Agency
+<table>
+  <tr>
+    <td><img src="https://8bitsagency.com/logo.png" alt="8Bits Agency Logo" width="100"/></td>
+    <td><h1>8Bits Agency</h1></td>
+  </tr>
+</table>
 
 En 8Bits Agency, unimos arte y código para crear experiencias interactivas inolvidables que conectan marcas y personas.
 
