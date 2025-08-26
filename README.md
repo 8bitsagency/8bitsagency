@@ -11,17 +11,17 @@ Transformamos ideas en soluciones digitales innovadoras, utilizando tecnología 
 Ofrecemos una amplia gama de servicios tecnológicos:
 
 - **Mapping**: Proyecciones dinámicas e inmersivas.
-  ![Mapping icon](http://8bitsagency.com/logos/servicios/mapping.png)
+  <img src="http://8bitsagency.com/logos/servicios/mapping.png" alt="Mapping icon" width="50"/>
 - **Realidad Aumentada**: Desarrollo de aplicaciones para múltiples plataformas.
-  ![Realidad Aumentada icon](http://8bitsagency.com/logos/servicios/ra.png)
+  <img src="http://8bitsagency.com/logos/servicios/ra.png" alt="Realidad Aumentada icon" width="50"/>
 - **Aplicaciones para Smartphone**: Creación de aplicaciones nativas.
-  ![Aplicaciones para Smartphone icon](http://8bitsagency.com/logos/servicios/app.png)
+  <img src="http://8bitsagency.com/logos/servicios/app.png" alt="Aplicaciones para Smartphone icon" width="50"/>
 - **Hologramas**: Producción e instalación de hologramas.
-  ![Hologramas icon](http://8bitsagency.com/logos/servicios/holograma.png)
+  <img src="http://8bitsagency.com/logos/servicios/holograma.png" alt="Hologramas icon" width="50"/>
 - **Leap Motion & Kinect**: Desarrollo de juegos y aplicaciones con detección de movimiento.
-  ![Leap Motion & Kinect icon](http://8bitsagency.com/logos/servicios/kinect.png)
+  <img src="http://8bitsagency.com/logos/servicios/kinect.png" alt="Leap Motion & Kinect icon" width="50"/>
 - **Vending Machines**: Diseño y fabricación de máquinas interactivas.
-  ![Vending Machines icon](http://8bitsagency.com/logos/servicios/vending.png)
+  <img src="http://8bitsagency.com/logos/servicios/vending.png" alt="Vending Machines icon" width="50"/>
 
 ## Proyectos Destacados
 
@@ -45,9 +45,9 @@ Desde gigantes globales hasta líderes locales, colaboramos con marcas que busca
 
 Algunas de estas marcas incluyen: Petrobras, Disney, Coca-Cola, Microsoft, Red Bull, Toyota, Audi, Hyundai, Sony, McDonald's, Pepsi, Nestlé, Shell, Heineken, Pfizer, y muchas más.
 
-![Marcas asociadas](http://8bitsagency.com/logos/empresas/disney.png)
-![Marcas asociadas](http://8bitsagency.com/logos/empresas/cocacola.png)
-![Marcas asociadas](http://8bitsagency.com/logos/empresas/microsoft.png)
+<img src="http://8bitsagency.com/logos/empresas/disney.png" alt="Disney" width="50"/>
+<img src="http://8bitsagency.com/logos/empresas/cocacola.png" alt="Coca-Cola" width="50"/>
+<img src="http://8bitsagency.com/logos/empresas/microsoft.png" alt="Microsoft" width="50"/>
 
 ## Contacto
 
