@@ -94,10 +94,8 @@ Algunas de estas marcas incluyen:
     <td><img src="http://8bitsagency.com/logos/empresas/nivea.png" alt="Nivea" width="80"/></td>
     <td><img src="http://8bitsagency.com/logos/empresas/lays.png" alt="Lays" width="80"/></td>
     <td><img src="http://8bitsagency.com/logos/empresas/starbucks.png" alt="Starbucks" width="80"/></td>
-  </tr>
-  <tr>
     <td><img src="http://8bitsagency.com/logos/empresas/ueno.png" alt="Ueno Bank" width="80"/></td>
-    <!-- Añade más imágenes aquí si es necesario -->
+  
   </tr>
 </table>
 
