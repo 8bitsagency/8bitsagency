@@ -48,42 +48,61 @@ Desde gigantes globales hasta líderes locales, colaboramos con marcas que busca
 
 Algunas de estas marcas incluyen:
 
-<img src="http://8bitsagency.com/logos/empresas/petrobras.png" alt="Petrobras" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/disney.png" alt="Disney" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/cocacola.png" alt="Coca-Cola" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/microsoft.png" alt="Microsoft" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/redbull.png" alt="Red Bull" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/toyota.png" alt="Toyota" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/audi.png" alt="Audi" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/hyundai.png" alt="Hyundai" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/sony.png" alt="Sony" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/mcdonalds.png" alt="McDonald's" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/pepsi.png" alt="Pepsi" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/nestle.png" alt="Nestlé" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/shell.png" alt="Shell" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/heineken.png" alt="Heineken" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/pfizer.png" alt="Pfizer" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/johnsonjohnson.png" alt="Johnson & Johnson" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/pizzahut.png" alt="Pizza Hut" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/itaipu.png" alt="Itaipu Binacional" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/tigo.png" alt="Tigo" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/claro.png" alt="Claro" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/bancoatlas.png" alt="Banco Atlas" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/cargill.png" alt="Cargill" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/syngenta.png" alt="Syngenta" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/kimberlyclark.png" alt="Kimberly-Clark" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/unilever.png" alt="Unilever" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/pilsen.png" alt="Pilsen" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/brahma.png" alt="Brahma" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/gatorade.png" alt="Gatorade" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/monster.png" alt="Monster" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/vans.png" alt="Vans" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/huawei.png" alt="Huawei" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/colgate.png" alt="Colgate" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/nivea.png" alt="Nivea" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/lays.png" alt="Lays" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/starbucks.png" alt="Starbucks" width="80"/>
-<img src="http://8bitsagency.com/logos/empresas/ueno.png" alt="Ueno Bank" width="80"/>
+<table>
+  <tr>
+    <td><img src="http://8bitsagency.com/logos/empresas/petrobras.png" alt="Petrobras" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/disney.png" alt="Disney" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/cocacola.png" alt="Coca-Cola" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/microsoft.png" alt="Microsoft" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/redbull.png" alt="Red Bull" width="80"/></td>
+  </tr>
+  <tr>
+    <td><img src="http://8bitsagency.com/logos/empresas/toyota.png" alt="Toyota" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/audi.png" alt="Audi" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/hyundai.png" alt="Hyundai" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/sony.png" alt="Sony" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/mcdonalds.png" alt="McDonald's" width="80"/></td>
+  </tr>
+  <tr>
+    <td><img src="http://8bitsagency.com/logos/empresas/pepsi.png" alt="Pepsi" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/nestle.png" alt="Nestlé" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/shell.png" alt="Shell" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/heineken.png" alt="Heineken" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/pfizer.png" alt="Pfizer" width="80"/></td>
+  </tr>
+  <tr>
+    <td><img src="http://8bitsagency.com/logos/empresas/johnsonjohnson.png" alt="Johnson & Johnson" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/pizzahut.png" alt="Pizza Hut" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/itaipu.png" alt="Itaipu Binacional" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/tigo.png" alt="Tigo" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/claro.png" alt="Claro" width="80"/></td>
+  </tr>
+  <tr>
+    <td><img src="http://8bitsagency.com/logos/empresas/bancoatlas.png" alt="Banco Atlas" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/cargill.png" alt="Cargill" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/syngenta.png" alt="Syngenta" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/kimberlyclark.png" alt="Kimberly-Clark" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/unilever.png" alt="Unilever" width="80"/></td>
+  </tr>
+  <tr>
+    <td><img src="http://8bitsagency.com/logos/empresas/pilsen.png" alt="Pilsen" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/brahma.png" alt="Brahma" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/gatorade.png" alt="Gatorade" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/monster.png" alt="Monster" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/vans.png" alt="Vans" width="80"/></td>
+  </tr>
+  <tr>
+    <td><img src="http://8bitsagency.com/logos/empresas/huawei.png" alt="Huawei" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/colgate.png" alt="Colgate" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/nivea.png" alt="Nivea" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/lays.png" alt="Lays" width="80"/></td>
+    <td><img src="http://8bitsagency.com/logos/empresas/starbucks.png" alt="Starbucks" width="80"/></td>
+  </tr>
+  <tr>
+    <td><img src="http://8bitsagency.com/logos/empresas/ueno.png" alt="Ueno Bank" width="80"/></td>
+    <!-- Añade más imágenes aquí si es necesario -->
+  </tr>
+</table>
 
 ## Contacto
 
