@@ -10,21 +10,18 @@ Transformamos ideas en soluciones digitales innovadoras, utilizando tecnología 
 
 Ofrecemos una amplia gama de servicios tecnológicos:
 
-- Mapping: Proyecciones dinámicas e inmersivas.
-- Realidad Aumentada: Desarrollo de aplicaciones para múltiples plataformas.
-- Aplicaciones para Smartphone: Creación de aplicaciones nativas.
-- Hologramas: Producción e instalación de hologramas.
-- Leap Motion & Kinect: Desarrollo de juegos y aplicaciones con detección de movimiento.
-- Vending Machines: Diseño y fabricación de máquinas interactivas.
-- Simuladores Inmersivos: Fabricación de hardware y software para simuladores.
-- Aplicaciones Touch: Interfaces intuitivas y atractivas.
-- Realidad Virtual: Creación de experiencias inmersivas.
-- Advergames: Juegos 2D y 3D para marcas.
-- Video Croma & Foto Cromas: Contenido audiovisual con fondos virtuales.
-- Glam Booth & Video Booth: Cabinas interactivas para videos.
-- Piso Interactivo: Experiencias interactivas proyectadas en el suelo.
-- Bullet Time 360 / 180 grados: Efectos fotográficos y de video.
-- Pantalla LED: Instalación de pantallas LED para eventos.
+- **Mapping**: Proyecciones dinámicas e inmersivas.
+  ![Mapping icon](http://8bitsagency.com/logos/servicios/mapping.png)
+- **Realidad Aumentada**: Desarrollo de aplicaciones para múltiples plataformas.
+  ![Realidad Aumentada icon](http://8bitsagency.com/logos/servicios/ra.png)
+- **Aplicaciones para Smartphone**: Creación de aplicaciones nativas.
+  ![Aplicaciones para Smartphone icon](http://8bitsagency.com/logos/servicios/app.png)
+- **Hologramas**: Producción e instalación de hologramas.
+  ![Hologramas icon](http://8bitsagency.com/logos/servicios/holograma.png)
+- **Leap Motion & Kinect**: Desarrollo de juegos y aplicaciones con detección de movimiento.
+  ![Leap Motion & Kinect icon](http://8bitsagency.com/logos/servicios/kinect.png)
+- **Vending Machines**: Diseño y fabricación de máquinas interactivas.
+  ![Vending Machines icon](http://8bitsagency.com/logos/servicios/vending.png)
 
 ## Proyectos Destacados
 
@@ -47,6 +44,10 @@ Hemos sido reconocidos por las principales instituciones y eventos del país:
 Desde gigantes globales hasta líderes locales, colaboramos con marcas que buscan romper las reglas y crear experiencias extraordinarias.
 
 Algunas de estas marcas incluyen: Petrobras, Disney, Coca-Cola, Microsoft, Red Bull, Toyota, Audi, Hyundai, Sony, McDonald's, Pepsi, Nestlé, Shell, Heineken, Pfizer, y muchas más.
+
+![Marcas asociadas](http://8bitsagency.com/logos/empresas/disney.png)
+![Marcas asociadas](http://8bitsagency.com/logos/empresas/cocacola.png)
+![Marcas asociadas](http://8bitsagency.com/logos/empresas/microsoft.png)
 
 ## Contacto
 
